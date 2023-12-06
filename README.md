@@ -22,7 +22,7 @@ Verifica además si ya se tiene **pip**, el gestor de paquetes para Python, usua
 En caso de no tenerlo instalado entonces dirígete a la siguiente página. <https://bootstrap.pypa.io/get-pip.py>  
 Guarda la página como "get-pip.py". En la consola de comandos dírigete a la carpeta donde se encuentra ubicado. Típicamente sería con "cd Downloads" en Windows, y ejecuta "python get-pip.py". Con esto tendrás instalada la ultima versión de pip.
 
-Una vez que se tengan todos estos requisitos, ve al directorio donde se guardó este repositorio y da doble clic sobre el archivo llamado **libraries.bat**, entonces se instalarán automáticamente.
+Una vez que se tengan todos estos requisitos, ve al directorio donde se guardó este repositorio y da doble clic sobre el archivo llamado <libraries.bat>, entonces se instalarán automáticamente.
 
 ## Carga del video
 
