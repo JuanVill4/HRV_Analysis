@@ -24,6 +24,6 @@ Guarda la página como "get-pip.py". En la consola de comandos dírigete a la ca
 
 Una vez que se tengan todos estos requisitos, ve al directorio donde se guardó este repositorio y da doble clic sobre el archivo llamado **libraries.bat**, entonces se instalarán automáticamente.
 
-### Carga del video
+## Carga del video
 
 En el segundo bloque del Notebook **HRV_analysis and Visualization** se realiza la carga del video que se va a analizar. Este video tiene que ser descargado desde la base de datos común y ser colocado en la carpeta del repositorio, se añadirá un .gitignore para que cualquier cambio posterior ignore a los videos ya que estos no pueden ser cargados. En este segundo bloque, se debe de cambiar el nombre del archivo acorde al video que se quiera analizar que esté dentro del repositorio local.
