@@ -32,4 +32,5 @@ En el segundo bloque del Notebook **HRV_analysis and Visualization** se realiza 
 
 Cargamos un clasificador pree entrenado para detectar las caras.
 Este clasificador es de tipo Haar Cascade y se basa en detección de rostro general. <https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html> 
+
 Puedes encontrar más clasificadores en el siguiente repositorio <https://github.com/opencv/opencv/tree/master/data/haarcascades>
