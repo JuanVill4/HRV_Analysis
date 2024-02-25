@@ -1,4 +1,4 @@
-# Descripción
+# Heart Rate Variability Analysis
 
 Este repositorio contiene los códigos para poder llevar a cabo un análisis de imagen extraída de un vídeo que tiene el objetivo último de obtener información relevante de señal cardiaca.
 
