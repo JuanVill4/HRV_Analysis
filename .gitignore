@@ -1,3 +1,10 @@
 *.mp4
 /DB
 *.mov
+/Face_arrays
+/Finger_arrays
+/Finger_hsv
+/Finger_rgb
+/__pycache__
+*.xlsx
+
